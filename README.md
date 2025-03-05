@@ -6,7 +6,7 @@ Hi there, i make stuff~
 
 <table width='100%'>
   <tr>
-    <td>
+    <td align="center" width="110" height="90">
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript"/>
       <br>JavaScript
     </td> 
